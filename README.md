@@ -12,8 +12,4 @@ A modern music school management web application built using **Next.js** and sty
 - **Frontend:** Next.js (React framework)
 - **Styling:** Tailwind CSS and Acternity UI
 
-## 🚀 Getting Started
-
-### Prerequisites
-
 -**Visit Link => https://music-library-ui.vercel.app/ **
